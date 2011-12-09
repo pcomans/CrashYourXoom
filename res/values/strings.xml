@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Drag the bomb onto one of the rectangles to make the application crash.</string>
+    <string name="app_name">GiantDrag</string>
+
+</resources>
